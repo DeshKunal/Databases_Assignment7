@@ -1,11 +1,12 @@
 # Databases_Assignment7  
 
-**Team Members :**
+**Team Members :**  
 Kunal Deshmukh (25PGAI0036),  
 Krunal Name (25PGAI0134),  
 Pranjal Grover (25PGAI0107),  
 Pravin Patrike (25PGAI0008),  
 Shikha Thakur (25PGAI0045)
+
 
 # Performing ETL jobs on 'Titanic' dataset and train a Logistic Regression Model
 
