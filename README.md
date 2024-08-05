@@ -19,7 +19,7 @@ This project aims to perform ETL (Extract, Transform, Load) jobs on 'Titanic' da
 
 ## Installation
 
-Usage
+
 Place the 'train.csv' file in the project directory. It can be downloaded from Kaggle.
 
 Run the **dbms_assignment7_group6.py** script:
