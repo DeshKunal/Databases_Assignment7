@@ -1,9 +1,10 @@
-# Databases_Assignment7
+# Databases_Assignment7  
+
 **Team Members :**
-Kunal Deshmukh (25PGAI0036),
-Krunal Name (25PGAI0134),
-Pranjal Grover (25PGAI0107),
-Pravin Patrike (25PGAI0008),
+Kunal Deshmukh (25PGAI0036),  
+Krunal Name (25PGAI0134),  
+Pranjal Grover (25PGAI0107),  
+Pravin Patrike (25PGAI0008),  
 Shikha Thakur (25PGAI0045)
 
 # Performing ETL jobs on 'Titanic' dataset and train a Logistic Regression Model
@@ -27,14 +28,12 @@ This script will:
 
 Load the dataset.  
 Fill missing values.  
-Drop the 'Cabin' column.
-
-
-Extract titles from names.
-Create a 'FamilySize' feature.
-Transform the numerical and categorical features.
-Store the transformed data in a SQLite database.
-Load the transformed data from the database.
-Split the transformed data into training and testing sets.
-Train a Logistic Regression model.
+Drop the 'Cabin' column.  
+Extract titles from names.  
+Create a 'FamilySize' feature.  
+Transform the numerical and categorical features.  
+Store the transformed data in a SQLite database.  
+Load the transformed data from the database.  
+Split the transformed data into training and testing sets.  
+Train a Logistic Regression model.  
 Evaluate the model's accuracy and print it.
