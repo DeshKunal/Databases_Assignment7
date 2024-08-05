@@ -25,9 +25,11 @@ Place the 'train.csv' file in the project directory. It can be downloaded from K
 Run the **dbms_assignment7_group6.py** script:
 This script will:
 
-Load the dataset.
-Fill missing values.
+Load the dataset.  
+Fill missing values.  
 Drop the 'Cabin' column.
+
+
 Extract titles from names.
 Create a 'FamilySize' feature.
 Transform the numerical and categorical features.
