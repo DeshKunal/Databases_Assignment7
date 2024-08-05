@@ -19,7 +19,7 @@ This project aims to perform ETL (Extract, Transform, Load) jobs on 'Titanic' da
 - scikit-learn
 - SQLAlchemy
 
-## Installation
+## Installation and Execution
 
 
 Place the 'train.csv' file in the project directory. It can be downloaded from Kaggle.
